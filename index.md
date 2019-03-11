@@ -17,7 +17,7 @@
 * 熟练掌握App的布局优化、内存优化、性能优化等
 * 熟练使用Android开源库okHttp、xutils、Picasso、Glide、Gson等
 * 熟练使用推送、三方登录、地图、直播、IM、分享、三方支付等技术
-* 理解http,https等网络协议
+* 理解http,https,TCP等网络协议
 <br>
 
 ##### 工作经历及业绩:
