@@ -7,10 +7,10 @@
 联系电话：17610767862<br></font>
 
 ##### 专业技能:
-* 精通Java语言, 熟悉kotlin,面向对象编程思想,
+* 熟悉Java语言, 熟悉kotlin,面向对象编程思想,
 * 熟悉mvc,mvp,mvvm架构
 * 熟悉Git,SVN版本管理工具。
-* 精通Android持久化存储技术,精通Android四大组件
+* 熟悉Android持久化存储技术,精通Android四大组件
 * 熟练掌握Android不同机型,不同分辨率适配
 * 熟练掌握Android的动画
 * 熟练掌握图片的异步加载，图片缓存，了解三级缓存原理
