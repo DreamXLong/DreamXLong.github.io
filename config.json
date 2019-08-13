@@ -1,7 +1,9 @@
-{
+﻿{
     "useSideMenu": false,
     "lineBreaks": "gfm",
     "additionalFooterText": "孙立鹏-Android开发工程师简历",
+    "additionalFooterText_kang": "康荣连简历",
     "anchorCharacter": "#",
-    "title": "孙立鹏-Android开发工程师"
+    "title": "孙立鹏-Android开发工程师",
+    "title_kang": "康荣连简历"
 }
